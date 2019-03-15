@@ -1,0 +1,13 @@
+flask
+pytest
+gunicorn
+raven[flask]
+pymongo
+
+face_recognition
+numpy
+scipy
+scikit-image
+scikit-learn
+dlib
+requests
